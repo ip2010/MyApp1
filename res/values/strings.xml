@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">MyApp1</string>
-    <string name="HelloText">0000</string>
+    <string name="HelloText">0</string>
+    <string name="textView1">0</string>
 </resources>
